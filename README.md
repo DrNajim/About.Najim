@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Nice to see you :)<br>Welcome to my page!<br>I'm Dr. Najim, Fullstack developer. Currently, I am seeking to collaborate <br>with new projects.
+Hey! Nice to see you :)<br>Welcome to my page!<br>I'm Dr. Najim, Fullstack developer. Currently, I am seeking to collaborate with new projects.
 
 
 ## 🌐 Socials:
