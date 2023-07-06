@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! Nice to see you :)<br>Welcome to my page!<br>I'm Dr. Najim, Fullstack developer.
+Hey! Nice to see you :)<br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack web developer.
 
 
 ## 🌐 Socials:
