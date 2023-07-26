@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey! Nice to see you :)<br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack web developer, I build dynamics and responsive websites for an optimal user experience that achieves business goals.
+
+Hey! Nice to see you. <br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack web developer.
+- 👀 I’m interested in web development
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://www.linkedin.com/in/abdessamad-najim-189095275/
 
 
 ## 🌐 Socials:
