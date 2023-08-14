@@ -3,7 +3,9 @@
 Hey! Nice to see you. <br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack web developer.
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/in/abdessamad-najim-189095275/
+- 📫 How to reach me:
+               Linkedin:  https://www.linkedin.com/in/abdessamad-najim-189095275/
+               Email:     najimabdessamad.na@gmail.com
 
 
 ## 🌐 Socials:
