@@ -4,7 +4,6 @@ Hey! Nice to see you. <br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:<br>
-               Linkedin:  https://www.linkedin.com/in/abdessamad-najim-189095275/<br>
                Email:     najimabdessamad.na@gmail.com
 
 
