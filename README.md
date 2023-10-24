@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 Hey! Nice to see you. <br>Welcome to my page!<br>I'm Najim Abdessamad, Fullstack web developer.
-- 👀 I’m interested in software engineer
-- 💞️ I’m looking to collaborate on ...
+- 👀 💞️ I’m interested in software engineer
+- I’m looking to collaborate on ...
 - 📫 How to reach me:<br>
                Email:     najimabdessamad.na@gmail.com
 
